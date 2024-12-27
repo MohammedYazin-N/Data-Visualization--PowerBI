@@ -7,3 +7,5 @@ changed theme of the different pages to look the report more interactive
 calculated percentage of the different ship modes available and represented it on a pie chart
 created a table consisting various segments like country,city,market,region and sum of sales for effective viewership
 completed the creation of an interactive sales report of a company in power BI
+
+https://github.com/user-attachments/assets/cce86769-ac1a-4d4c-b1b3-dafc42fe159e
